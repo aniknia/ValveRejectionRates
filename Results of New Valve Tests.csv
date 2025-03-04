@@ -1,0 +1,24 @@
+﻿Results of New Valve Tests,,,,,,,,,,
+,,,,,,,,,,
+% Rejected,Rejected for,,Vendor,Population,Rejected,High Pop,% Over Set,% Over Limit,Set Pressure,Service
+4.6%,leaking,,a,9,2,1,10.0%,4.3%,35,steam
+4.3%,high pop,,b,13,0,0,0.0%,0.0%,,air
+2.5%,low pop,,c,85,1,1,13.0%,9.7%,175,steam
+1.1%,stamped wrong,,d,108,21,4,4.5%,1.5%,350,air
+0.5%,no seel,,e,1,0,0,0.0%,0.0%,,na
+0.4%,wrong valve,,f,55,9,2,5.5%,2.5%,400,liquid
+0.4%,bad lever,,g,41,5,2,6.7%,3.3%,165,steam
+0.4%,no oxygen cleen report(?),,h,2,0,0,0.0%,0.0%,,air
+14.2%,Total,,z,40,6,1,24.0%,20.0%,165,steam
+79.52,Number of units rejected,,k,1,0,0,0.0%,0.0%,,steam
+,,,y,66,4,4,6.0%,3.0%,100,air
+,,,m,54,6,1,27.0%,24.0%,75,air/liquid
+,,,m,14,7,3,10.0%,3.0%,80,steam
+,,,n,1,0,0,0.0%,0.0%,,na
+,,,o,3,0,0,0.0%,0.0%,,air
+,,,p,3,0,0,0.0%,0.0%,,liquid
+,,,r,38,7,1,6.8%,4.0%,250,liquid
+,,,s,8,0,0,0.0%,0.0%,,air
+,,,x,18,2,1,6.3%,1.2%,175,air
+,,Total,,560,70,21,6.3%,4.0%,,
+,,,,,,,average,average,,
