@@ -1,0 +1,24 @@
+final project outline
+
+priors:
+gamma distribution for valve failure
+ - scale parameter
+	normally distributed?
+ - shape parameter
+	normally distributed?
+vendor
+ - normally distributed, with a tight spread (look up typical vendor valve stats, if available)
+
+set pressure
+- assume higher set pressure --> more likely to fail
+
+service medium
+- unsure distribution
+
+multiple things need to add/multiply together to get a failure rate
+ - if these are independent, can the probabilities just be multiplied? i.e. vendor is independent from set pressure & service medium
+
+
+Notes from meeting:
+-- sign up for GitHub
+-- 

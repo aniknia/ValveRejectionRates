@@ -1,0 +1,25 @@
+
+
+Group projects: Each group may consist of up to 3 students. Each student is expected to devote 20+ hours total on their project.  You may use "Discussions" on Bruin Learn to recruit your group members.  And then, go to "People" on Bruin Learn to assign yourself to a group (under Final Project Groups).  
+Final Project Grading:
+    - Peer review scores (50%)
+    - Instructor grading (30% technical contents + 20% quality of your peer reviews of other groups’ projects)
+Topics: Open as long as they are related to Bayesian Statistics.  Possible options are
+    - You may go very in-depth in one or more of the topics covered in class and develop a mini lecture.
+    - You may select a topic of your own interest (not covered in the course but relevant to or based on the Bayesian statistics) and develop a mini lecture on that topic.
+    - You may build upon one of the mini projects (e.g., different sports leagues or physical problems).
+    - You may do projects using data/problems from your research or work (make sure you sanitize your data and get permission from your supervisor).
+Final Deliverables:
+    - Video lecture/presentation uploaded on YouTube (minimum 25 minutes and maximum 35 minutes).
+    - Final presentation slide (a single pdf file with the title slide containing the link to your YouTube video and the last slide specifying the contributions by each student).
+Peer Reviews: Each student will review final projects from 3 other groups.
+    - 1-paragraph (2~3 sentences) summary
+    - 1-paragaph (2~3 sentences) strengths
+    - 1-paragraph (2~3 sentences) weaknesses
+    - Final score (out of 100 per each student grader)
+Due dates: sorry but we cannot give any extension [you may receive “I” (incomplete) grade if your group misses the due dates]
+    - 1-paragraph proposal: Saturday of Week 7
+    - Progress report (1 paragraph + plots): Saturday of Week 9
+    - Final deliverables: Saturday of Week 10
+    - Peer reviews: Saturday of Final Exam week
+
