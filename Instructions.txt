@@ -1,5 +1,4 @@
-
-
+## Project Instructions
 Group projects: Each group may consist of up to 3 students. Each student is expected to devote 20+ hours total on their project.  You may use "Discussions" on Bruin Learn to recruit your group members.  And then, go to "People" on Bruin Learn to assign yourself to a group (under Final Project Groups).  
 Final Project Grading:
     - Peer review scores (50%)
@@ -22,4 +21,3 @@ Due dates: sorry but we cannot give any extension [you may receive “I” (inco
     - Progress report (1 paragraph + plots): Saturday of Week 9
     - Final deliverables: Saturday of Week 10
     - Peer reviews: Saturday of Final Exam week
-

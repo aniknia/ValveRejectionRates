@@ -17,8 +17,3 @@ service medium
 
 multiple things need to add/multiply together to get a failure rate
  - if these are independent, can the probabilities just be multiplied? i.e. vendor is independent from set pressure & service medium
-
-
-Notes from meeting:
--- sign up for GitHub
--- 
