@@ -5,4 +5,4 @@ This project is a Julia-based analysis developed in a Jupyter Notebook that pred
 
 The code is structured to preprocess the valve data by service medium, construct hierarchical models for each medium, and generate predictive distributions and density plots. These visualizations help in comparing the estimated probabilities of failure across different vendors and mediums, offering valuable insights for quality control and process improvement.
 
-<h1 align="center"><img src="Project Instructions and Deliverables/probability of failure.png" alt="Probability of Failure" height="100px"></h1>
+<h1 align="center"><img src="Project Instructions and Deliverables/probability of failure.png" alt="Probability of Failure" height="800px"></h1>
